@@ -71,4 +71,3 @@ let isChecked = true,
 console.log(isChecked && isClose);  //false
 console.log(isChecked || isClose);  // true
 
-//git githab
